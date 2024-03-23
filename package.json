@@ -1,0 +1,42 @@
+{
+  "name": "perspiciatiseligendi",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@angular/compiler": "^16.1.8",
+    "@angular/compiler-cli": "^16.1.8",
+    "@angular/core": "^16.1.8",
+    "@types/eslint": "^8.44.2",
+    "@types/jest": "^29.5.3",
+    "@types/katex": "^0.16.2",
+    "@types/markdown-it": "^12.2.3",
+    "@types/node": "^20.4.8",
+    "@typescript-eslint/eslint-plugin": "^6.2.1",
+    "@typescript-eslint/parser": "^6.2.1",
+    "commonmark": "^0.30.0",
+    "concurrently": "^8.2.0",
+    "eslint": "^8.46.0",
+    "highlight.js": "^11.8.0",
+    "jest": "^29.6.2",
+    "katex": "^0.16.8",
+    "lerna": "^7.1.5",
+    "markdown": "^0.5.0",
+    "markdown-it": "^13.0.1",
+    "marked": "^6.0.0",
+    "ng-packagr": "^16.1.0",
+    "prettier": "^3.0.1",
+    "remarkable": "^2.0.0",
+    "rimraf": "^5.0.1",
+    "showdown": "^2.1.0",
+    "tsconfig-paths": "^4.2.0",
+    "tslib": "^2.6.1",
+    "typescript": "^5.1.6"
+  },
+  "author": "AnnabelleBartoletti",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LulaPadberg/perspiciatiseligendi.git"
+  },
+  "version": "1.0.0"
+}
